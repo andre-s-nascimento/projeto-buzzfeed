@@ -1,0 +1,285 @@
+{
+  "title": "Em que Série de Televisão de Star Trek Você Seria Escalado?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Escolha um lar espacial:",
+      "options": [
+        { "id": 1, "name": "Deep Space Nine (Estação Espacial)", "alias": "C" },
+        { "id": 2, "name": "USS Enterprise (NCC-1701-D)", "alias": "B" },
+        { "id": 3, "name": "USS Discovery (NCC-1031)", "alias": "D" },
+        { "id": 4, "name": "USS Cerritos (NCC-75567)", "alias": "E" },
+        { "id": 5, "name": "USS Enterprise (NCC-1701)", "alias": "A" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual é a sua abordagem diante de dilemas éticos?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Procurar o conselho de outros antes de tomar uma decisão",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Questionar autoridades quando necessário",
+          "alias": "D"
+        },
+        {
+          "id": 3,
+          "name": "Adaptar-se às circunstâncias para o bem maior",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Tentar resolver as coisas com humor e leveza",
+          "alias": "E"
+        },
+        {
+          "id": 5,
+          "name": "Seguir os princípios da Frota Estelar, mesmo que seja difícil",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Como você lida com situações de conflito intergaláctico?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Fazendo piadas para aliviar a tensão",
+          "alias": "E"
+        },
+        {
+          "id": 2,
+          "name": "Tomando medidas estratégicas ousadas",
+          "alias": "D"
+        },
+        {
+          "id": 3,
+          "name": "Priorizando a diplomacia e a negociação",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Utilizando a força quando necessário para proteger a tripulação",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Buscando soluções pacíficas sempre que possível",
+          "alias": "C"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é a sua abordagem para a exploração do desconhecido?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Estabelecendo relações comerciais sempre que possível",
+          "alias": "C"
+        },
+        { "id": 2, "name": "Abordando com cautela e preparação", "alias": "B" },
+        {
+          "id": 3,
+          "name": "Com curiosidade científica e respeito pela diversidade alienígena",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Encarando tudo como uma aventura empolgante",
+          "alias": "E"
+        },
+        {
+          "id": 5,
+          "name": "Investigando com uma mente aberta para possíveis descobertas",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Escolha um oficial superior para ser seu mentor:",
+      "options": [
+        { "id": 1, "name": "Capitão Jean-Luc Picard", "alias": "B" },
+        { "id": 2, "name": "Capitã Carol Freeman", "alias": "E" },
+        { "id": 3, "name": "Capitã Philippa Georgiou", "alias": "D" },
+        { "id": 4, "name": "Comandante Benjamin Sisko", "alias": "C" },
+        { "id": 5, "name": "Capitão James T. Kirk", "alias": "A" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Como você se relaciona com membros da tripulação?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Criando laços próximos e promovendo a camaradagem",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Desafiando a autoridade quando necessário",
+          "alias": "D"
+        },
+        {
+          "id": 3,
+          "name": "Mantendo uma abordagem profissional",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Brincando e fazendo piadas para manter um ambiente descontraído",
+          "alias": "E"
+        },
+        {
+          "id": 5,
+          "name": "Adaptando-se aos diferentes estilos de liderança",
+          "alias": "C"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qual é a sua abordagem para lidar com civilizações alienígenas desconhecidas?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Estabelecendo contatos amigáveis e aprendendo com eles",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Usando o humor como uma forma de se conectar com outras espécies",
+          "alias": "E"
+        },
+        {
+          "id": 3,
+          "name": "Explorando com curiosidade, mas prontidão para ação",
+          "alias": "D"
+        },
+        { "id": 4, "name": "Mantendo vigilância e precaução", "alias": "B" },
+        {
+          "id": 5,
+          "name": "Buscando oportunidades de comércio e colaboração",
+          "alias": "C"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Como você lida com situações de crise na ponte de comando?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Avaliando a situação calmamente antes de agir",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Trazendo humor para aliviar a tensão",
+          "alias": "E"
+        },
+        {
+          "id": 3,
+          "name": "Tomando decisões ousadas para superar desafios",
+          "alias": "D"
+        },
+        {
+          "id": 4,
+          "name": "Delegando responsabilidades conforme necessário",
+          "alias": "C"
+        },
+        {
+          "id": 5,
+          "name": "Agindo rapidamente e liderando pelo exemplo",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Escolha um alienígena para ser seu melhor amigo:",
+      "options": [
+        { "id": 1, "name": "Spock", "alias": "A" },
+        { "id": 2, "name": "Tendi", "alias": "E" },
+        { "id": 3, "name": "Odo", "alias": "C" },
+        { "id": 4, "name": "Saru", "alias": "D" },
+        { "id": 5, "name": "Data", "alias": "B" }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Qual é a sua visão para o futuro da exploração espacial?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Desenvolver alianças intergalácticas para garantir a paz",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Descobrir tecnologias avançadas para aprimorar nossa sociedade",
+          "alias": "D"
+        },
+        {
+          "id": 3,
+          "name": "Expandir nossos horizontes e buscar novas formas de vida",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Garantir que as futuras gerações possam rir enquanto exploram o espaço",
+          "alias": "E"
+        },
+        {
+          "id": 5,
+          "name": "Integrar diferentes civilizações para um universo mais unificado",
+          "alias": "C"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "O que você valoriza mais em uma missão espacial?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Manutenção da paz e ordem na galáxia",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Descobertas científicas significativas",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Uma pitada saudável de comédia em meio às estrelas",
+          "alias": "E"
+        },
+        {
+          "id": 4,
+          "name": "Aventuras emocionantes e inesperadas",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Desenvolvimento de relações interplanetárias",
+          "alias": "C"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você seria escalado em Star Trek: The Original Series (TOS)",
+    "B": "Você seria escalado em Star Trek: The Next Generation (TNG)",
+    "C": "Você seria escalado em Star Trek: Deep Space Nine (DS9)",
+    "D": "Você seria escalado em Star Trek: Discovery (DISCO)",
+    "E": "Você seria escalado em Star Trek: Lower Decks (STLD)"
+  }
+}

@@ -1,6 +1,8 @@
 # ProjetoBuzzfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+This project emulates the (in)famous Buzzfeed Quiz. For this project in special I choose to explore the Star Trek Universe.
+Project based on [Felipe Aguiar's one](https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone/tree/main/src/app) as final Bootcamp project.
 
 ## Development server
 

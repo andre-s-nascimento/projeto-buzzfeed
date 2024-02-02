@@ -1,0 +1,29 @@
+<div class="quiz__container">
+  <div class="quiz__logo">
+    <img src="assets\imgs\logo-trek.png" alt="" />
+    <h3>{{ title }}</h3>
+  </div>
+
+  <div *ngIf=!finished class="quiz__questions">
+    <h3>{{ questionSelected.question }}</h3>
+  </div>
+
+  <div *ngIf=!finished class="quiz__options">
+    <button *ngFor="let option of questionSelected.options; let i = index"
+    (click)="playerChoose(option.alias)"
+    class="btn-option">
+      {{ option.name }}
+    </button>
+  </div>
+
+  <div *ngIf=finished class="quiz__results">
+    <h2>O seu resultado é:</h2>
+    <p>{{answerSelected}}</p>
+    <div [ngSwitch]="finalAnswer" class="quiz__results_img">
+      <img *ngSwitchCase="'A'" src="../../../assets/imgs/st-tos.jpg" alt="Star Trek The Original Series">
+      <img *ngSwitchCase="'B'" src="../../../assets/imgs/st-tng.jpg" alt="Star Trek: The Next Generation (TNG)">
+      <img *ngSwitchCase="'C'" src="../../../assets/imgs/st-ds9.jpg" alt="Star Trek: Deep Space Nine (DS9)">
+      <img *ngSwitchCase="'D'" src="../../../assets/imgs/st-dis.jpg" alt="Star Trek: Discovery (DISCO)">
+      <img *ngSwitchCase="'E'" src="../../../assets/imgs/st-lwd.jpg" alt="Star Trek: Lower Decks (STLD)">
+  </div>
+</div>
